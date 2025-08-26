@@ -5,3 +5,4 @@ Raw sequencing data can be found in Sequence Read Archive at National Center for
 R scripts used for sequence data analyses are found under the `scripts` directory:
   - `dada2_wf_wm.R`: the DADA2 workflow for 16S rRNA gene amplicon sequencing data
   - `wm_downstream.R`: the downstream analyses of the wastewater microbiome data
+  - `count_reads_16s.R`: a utility script to count the number of reads in fastq files
